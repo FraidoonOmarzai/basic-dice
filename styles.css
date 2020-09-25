@@ -1,0 +1,68 @@
+body {
+   background-color: #222831;
+}
+
+.top {
+   text-align: center;
+   margin: 80px;
+}
+
+.part {
+   width: 42%;
+   margin: auto;
+   text-align: center;
+   background-color: #1b262c;
+   border-radius: 20px;
+   padding-bottom: 10px;
+}
+
+.dice {
+   text-align: center;
+   display: inline-block;
+}
+
+.player-1 {
+   margin-right: 16%;
+   margin-bottom: 16rem;
+}
+
+h1 {
+   margin: 30px;
+   font-family: 'Lobster', cursive;
+   text-shadow: 5px 0 #232931;
+   font-size: 8rem;
+   color: #eeeeee;
+}
+
+p {
+   font-size: 2rem;
+   color: #eeeeee;
+   font-family: 'Indie Flower', cursive;
+}
+
+img {
+   width: 80%;
+   padding: 0 20px 20px;
+}
+
+button {
+   width: 100px;
+   left: 50%;
+   color: #eeeeee;
+   background: none;
+   /* border: none; */
+   font-size: 20px;
+   text-transform: uppercase;
+   cursor: pointer;
+   font-weight: 300;
+   margin-top: 30px;
+   padding: 10px;
+   border-radius: 10px;
+}
+
+footer {
+   margin-top: 5%;
+   color: #EEEEEE;
+   text-align: center;
+   font-family: 'Indie Flower', cursive;
+}
